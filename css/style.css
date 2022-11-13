@@ -3,3 +3,8 @@ style{
     background-image: url(../img/cat.jpg.jfif);
     background-image: url(../img/turtle.jpg.jfif);
 }
+
+h1{
+    color: red;
+    background-color: yellow;
+}
